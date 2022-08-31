@@ -1,0 +1,13 @@
+C:\Users\teodoro.soares\Pictures\CSharp\Cafeteira\Cafeteira\bin\Debug\netcoreapp3.1\Cafe.exe
+C:\Users\teodoro.soares\Pictures\CSharp\Cafeteira\Cafeteira\bin\Debug\netcoreapp3.1\Cafe.deps.json
+C:\Users\teodoro.soares\Pictures\CSharp\Cafeteira\Cafeteira\bin\Debug\netcoreapp3.1\Cafe.runtimeconfig.json
+C:\Users\teodoro.soares\Pictures\CSharp\Cafeteira\Cafeteira\bin\Debug\netcoreapp3.1\Cafe.runtimeconfig.dev.json
+C:\Users\teodoro.soares\Pictures\CSharp\Cafeteira\Cafeteira\bin\Debug\netcoreapp3.1\Cafe.dll
+C:\Users\teodoro.soares\Pictures\CSharp\Cafeteira\Cafeteira\bin\Debug\netcoreapp3.1\Cafe.pdb
+C:\Users\teodoro.soares\Pictures\CSharp\Cafeteira\Cafeteira\obj\Debug\netcoreapp3.1\Cafe.csprojAssemblyReference.cache
+C:\Users\teodoro.soares\Pictures\CSharp\Cafeteira\Cafeteira\obj\Debug\netcoreapp3.1\Cafe.AssemblyInfoInputs.cache
+C:\Users\teodoro.soares\Pictures\CSharp\Cafeteira\Cafeteira\obj\Debug\netcoreapp3.1\Cafe.AssemblyInfo.cs
+C:\Users\teodoro.soares\Pictures\CSharp\Cafeteira\Cafeteira\obj\Debug\netcoreapp3.1\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\teodoro.soares\Pictures\CSharp\Cafeteira\Cafeteira\obj\Debug\netcoreapp3.1\Cafe.dll
+C:\Users\teodoro.soares\Pictures\CSharp\Cafeteira\Cafeteira\obj\Debug\netcoreapp3.1\Cafe.pdb
+C:\Users\teodoro.soares\Pictures\CSharp\Cafeteira\Cafeteira\obj\Debug\netcoreapp3.1\Cafe.genruntimeconfig.cache

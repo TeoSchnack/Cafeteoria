@@ -1,0 +1,1 @@
+Esse projeto simula um software simples para uma cafeteira
